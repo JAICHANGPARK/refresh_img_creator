@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.dreamwalker.refresh.img.refresh_img_creator">
    <application
-        android:label="refresh_img_creator"
+        android:label="시원짤 만들기"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
